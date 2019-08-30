@@ -1,0 +1,15 @@
+class: menuItem
+
+attributes
+1. name: 'Mary had a Lentil Lamb'
+2. available: true
+3. description: 'a savory dish with organic lamb and lentils'
+4. price: 16.99
+5. quantityOrdered: 6
+6. onMenu: true
+
+methods
+1. order (quantityOrdered: 6+1=7)
+2. removeItemFromMenu (onMenu=false, available=false)
+3. changePrice (change value of price:16.99 to price:18.99)
+4. changeDescription (change description:'a savory dish with organic lamb and lentils' to description:'an organic lamb dish with broccoli and lentils')
