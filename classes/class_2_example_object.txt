@@ -1,0 +1,15 @@
+class: server
+
+attributes
+1. name: 'Steve'
+2. hoursScheduledToWork: 23
+3. employed: true
+4. worksWeekends: true
+5. serverSpeed: 4
+
+methods
+1. scheduleServer (hoursScheduledToWork:23+8=31)
+2. terminate (employed=false, hoursScheduledToWork=0)
+3. applyNameTag (display: name)
+4. scheduleForSaturday (if worksWeekends=true, employed=true, do hoursScheduledToWork+8)
+5. yellAtServerToGoFaster (serverSpeed:4+4=8)
