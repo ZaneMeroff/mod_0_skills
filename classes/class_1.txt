@@ -1,0 +1,15 @@
+class: menuItem
+
+attributes
+1. name (string)
+2. available (boolean)
+3. description (string)
+4. price (float)
+5. quantityOrdered (integer)
+6. onMenu (boolean)
+
+methods
+1. order (if available returns true, do quantityOrdered+1)
+2. removeItemFromMenu (changes onMenu to false)
+3. changePrice (changes price value)
+4. changeDescription (changes description value)
