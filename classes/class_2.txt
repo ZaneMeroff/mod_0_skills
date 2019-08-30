@@ -1,0 +1,15 @@
+class: server
+
+attributes
+1. name (string)
+2. hoursScheduledToWork (integer)
+3. employed (boolean)
+4. worksWeekends (boolean)
+5. serverSpeed (integer)
+
+methods
+1. scheduleServer (adds +8 to hoursScheduledToWork)
+2. terminate (changes employed to false, changes hoursScheduledToWork to 0)
+3. applyNameTag (uses name for display)
+4. scheduleForSaturday (if worksWeekends returns true and employed returns true, adds +8 to hoursScheduledToWork)
+5. yellAtServerToGoFaster (adds +4 to serverSpeed)
