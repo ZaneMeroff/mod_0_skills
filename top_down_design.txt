@@ -1,0 +1,43 @@
+how to become a turing student
+
+1. decide which program to complete (FE or BE)
+  1.1 research FE programming
+  1.2 research BE programming
+  1.3 decide which program you wish to pursue
+  1.3 if undecided, flip a coin
+
+2. apply to turing
+  2.1 locate a computer
+    2.1.1 walk over to computer
+  2.2 power on computer
+    2.2.1 use finger to press power button
+  2.3 open up web browser
+    2.3.1 use cursor to select a web browser
+  2.4 select the address bar (if chrome, use command+L)
+  2.5 in the address bar type 'http://turing.io'
+    2.5.1 use your finders on the qwerty keyboard to enter the web address
+  2.6 select 'PROGRAMS' from the header menu
+    2.6.1 use cursor to click on button
+  2.7 select 'APPLY NOW' button for appropriate program (FE or BE)
+    2.7.1 use cursor to click on button
+  2.8 select log in button
+    2.8.1 use cursor to click on button
+  2.9 enter facebook account info into log in text box
+    2.9.1 use your fingers on the qwerty keyboard to enter your name
+  2.10 fill out contact info and work history form
+    2.10.1 use your fingers on the qwerty keyboard to fill out each text box with appropriate and accurate information
+    2.10.2 if applicable, upload current resume
+    2.10.3 select 'NEXT' button
+  2.11 complete logic game quiz
+    2.11.1 read each question carefully
+    2.11.2 use cursor to select correct answer
+    2.11.3 use cursor to select the 'NEXT' button to submit answer
+    2.11.4 repeat until all problems have been answered
+  2.12 select 'SUBMIT APPLICATION' button
+    2.12.1 use cursor to select button
+
+  3. await results
+    3.1 check email regularly for turing response message
+      3.1.1 if you receive an 'accepted' response, jump for joy!
+      3.1.2 if you receive an 'unaccepted' response, cry into pillow
+        3.1.2.1 you may reapply after 90 days to try again
