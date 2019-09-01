@@ -1,4 +1,4 @@
-class: server
+class: Server
 
 attributes
 1. name (string)
