@@ -1,4 +1,4 @@
-class: menuItem
+object: item028
 
 attributes
 1. name: 'Mary had a Lentil Lamb'
