@@ -1,4 +1,4 @@
-class: menuItem
+class: Menu Item
 
 attributes
 1. name (string)
