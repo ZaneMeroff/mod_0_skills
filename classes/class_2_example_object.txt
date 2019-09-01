@@ -1,4 +1,4 @@
-class: server
+object: Steve
 
 attributes
 1. name: 'Steve'
